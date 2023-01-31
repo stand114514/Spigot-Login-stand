@@ -1,0 +1,23 @@
+name: Login
+version: '${project.version}'
+main: stand.mc.login.Login
+api-version: 1.19
+authors: [ stand ]
+description: 登录插件
+
+commands:
+  #自定义指令
+  login:
+    #描述信息
+    description: 登录
+    #权限
+    permission: everyone
+
+#permissions:
+permissions:
+  #自定义权限
+  login-everyone:
+    description: 所有人
+    #权限
+    default: true
+
