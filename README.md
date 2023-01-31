@@ -3,7 +3,8 @@
 [![image](https://img.shields.io/badge/java-Spigot--1.19.3-blue.svg)](https://www.spigotmc.org/)
 # Login-stand
 **IDEA项目**  
-一个我的世界(1.19.3)spigot核心的登录插件
+一个我的世界(1.19.3)spigot核心的登录插件  
+[**编译版本**](https://github.com/stand114514/Spigot-Login-stand/releases/tag/plugin)
 
 ## 命令
     /login 密码
